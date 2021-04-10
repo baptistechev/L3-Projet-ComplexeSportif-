@@ -1,0 +1,21 @@
+.laForm{
+    padding-bottom: 9%;
+}
+
+.laForm input{
+  margin: 10px;
+}
+
+.laForm h4{
+  display: inline;
+  margin: 10px;
+}
+
+.Forms{
+  padding: 5px;
+  width: 650px;
+}
+
+.laForm i{
+  font-size: 12px;
+}

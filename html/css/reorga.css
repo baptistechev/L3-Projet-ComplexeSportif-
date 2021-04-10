@@ -1,0 +1,30 @@
+.content{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#poules{
+  display: flex;
+  background-color: skyblue;
+  text-align: center;
+}
+
+.poule{
+  display: inline-block;
+  border: solid black 2px;
+  margin: 20px;
+  padding: 30px;
+  padding-top: 0px;
+  text-align: center;
+  background-color: white;
+}
+
+.poule .equipe{
+  display: flex;
+  cursor: pointer;
+  border: solid black 1px;
+  padding: 5px;
+  background-color: teal;
+  color: white;
+}

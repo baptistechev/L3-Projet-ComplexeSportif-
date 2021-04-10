@@ -1,0 +1,21 @@
+/*Style de base*/
+body{
+  text-align: center;
+}
+.Forms{
+  margin: 9%;
+  width: 40%;
+  display: inline-block;
+  background-color: lightgrey;
+}
+
+.Forms .f{
+  vertical-align: middle;
+  margin: 50px;
+  display: inline-block;
+}
+
+.Forms .LaForm input{
+  margin: 5px;
+  padding: 8px;
+}

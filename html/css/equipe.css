@@ -1,0 +1,27 @@
+h1{
+	text-align: center;
+}
+
+.content{
+	height: 80%;
+	width: 80%;
+	margin-left: 10%;
+	margin-top: 10%; 
+}
+
+.row{
+	display: flex;
+	height: 150px;
+	width: 100%;
+	margin-bottom: 50px;
+}
+
+.joueur{
+	border: solid black 2px;
+	width: 150px;
+	margin-left: 50px;
+	text-align: center;
+	padding-top: 45px;
+	background-color: lightgrey;
+	box-shadow: 10px 5px 5px gray;
+}

@@ -1,0 +1,20 @@
+h1, h2{
+	text-align: center;
+}
+
+.classement{
+	width: 80%;
+	margin-left: 10%;
+	margin-bottom: 100px;
+}
+
+table{
+  margin-left: 10px;
+  width: 96%;
+}
+
+tr, th, td{
+  border: solid black 1px;
+  text-align: center;
+  height: 40px;
+}

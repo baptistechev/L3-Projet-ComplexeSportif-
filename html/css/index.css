@@ -1,0 +1,39 @@
+body{
+	flex-direction: column;
+	background-color: grey;
+	height: 100%;
+}
+
+header{
+	border: solid black 2px;
+	height: 10%;
+	width: 100%;
+	text-align: left;
+	background-color: white;
+}
+
+header li{
+	display: inline;
+	padding: 10px;
+}
+
+header li .connect{
+	color: red;
+}
+
+.corps{
+	background-color: beige;
+	display: inline-block;
+	width: 90%;
+	height: 100%;
+	margin-left: 5%;
+}
+
+a{
+  text-decoration: none;
+  color: blue;
+}
+
+a:hover{
+  color: red;
+}
