@@ -1,3 +1,11 @@
+               PROJET COMPLEXE SPORTIF 
+
+auteurs: CHEVALIER Baptiste, LEMONNIER Adam
+
+------------------------------------------------------
+
+Installation :
+
 lancer serveur lampp: /opt/lampp/xampp start/stop
 
 créer une base complexe_sportif
